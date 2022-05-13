@@ -5,7 +5,7 @@ body{
 
 body::before{
     content: '';
-    background-image: url("/tela-de-selecao-de-personagem/src/imagens/1cYrMYF.gif");
+    background-image: url("../imagens/1cYrMYF.gif");
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
